@@ -1,0 +1,17 @@
+
+
+Hello World
+
+#include < stdio.h > 
+//tells compiler to include std input output header file.
+
+int main()
+{
+  printf("Hello world\n");
+  //prints Hello world on user screen
+  return 0; 
+  //return the value zero to the OS.
+} 
+
+Download this app for more programs and tutorials
+https://play.google.com/store/apps/details?id=c.programming
